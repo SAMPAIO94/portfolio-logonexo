@@ -1,0 +1,16 @@
+# Logos do portfólio LogoNexo
+
+Envie aqui as imagens dos trabalhos que deseja exibir no portfólio do site.
+
+## Pasta correta
+Coloque os arquivos de imagem diretamente nesta pasta: `logos/`
+
+Formatos aceitos: PNG, JPG, JPEG, WEBP e SVG.
+
+## Como nomear
+Use o nome do projeto no arquivo. Exemplo: `logo-cafeteria-nova.png`.
+O site transforma esse nome em título automaticamente.
+
+Depois de enviar a imagem, aguarde alguns instantes e atualize o site https://meu-logo.vercel.app/#portfolio. A imagem será carregada automaticamente, sem precisar editar o site ou fazer novo deploy.
+
+Dica: prefira imagens nítidas, centralizadas e com boa resolução. Não coloque arquivos ZIP ou documentos nesta pasta.
